@@ -86,7 +86,7 @@ body {
 }
 
 .masthead {
-    background-image: url(img/masthead.webp);
+    background-image: url(../img/masthead.webp);
     background-size: cover;
     width: 100%;
     height: auto;
